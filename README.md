@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Shubham 👋
 
-<!--
-**shubham-engineering/shubham-engineering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring AI & Engineering Student  
+🌎 Based in the USA 
+🧠 Interests: Machine Learning, Computer Engineering, Sports, Finance  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Current Projects
+
+🧪 AI-Optimized CO₂ Capture  
+- Using machine learning to improve carbon capture efficiency  
+
+❤️ Heart Disease Prediction Model  
+- Built ML model to predict cardiovascular risk  
+
+🌍 Smart Air Quality Monitor (Raspberry Pi)  
+- Real-time CO₂ and air quality tracking with AI alerts  
+
+💻 Mini CPU Simulator  
+- Built an 8-bit CPU system demonstrating fetch-decode-execute cycle  
+
+---
+
+## 🛠️ Skills
+
+- Python, Machine Learning, Data Analysis  
+- Raspberry Pi, Hardware Systems  
+- Shopify / E-commerce Development  
+- Research & Technical Writing  
+
+---
+
+## 📈 Goals (2026)
+
+- Publish 2+ research papers  
+- Compete in STEM competitions (ISEF/JSHS)  
+- Build real-world AI + hardware projects  
+
+---
+
+## 📫 Contact
+- Email: magoshubham286@gmail.com
